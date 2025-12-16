@@ -1,4 +1,4 @@
-# koishi-plugin-60s
+# koishi-plugin-60snews
 
 
 新闻60s
